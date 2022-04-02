@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning technologies to become a fullstack developer.
 - 💞️ I’m looking to collaborate on interesting app projects.
 
+Personal Website: https://petersir01-portfolio.netlify.app/
+
 Languages and Tools:
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
