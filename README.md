@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning technologies to become a fullstack developer.
 - 💞️ I’m looking to collaborate on interesting app projects.
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 Personal Website: https://petersir01-portfolio.netlify.app/
 
 Languages and Tools:
