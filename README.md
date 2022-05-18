@@ -6,6 +6,7 @@
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 Personal Website: https://petersir01-portfolio.netlify.app/
+Blog when I get bored: https://dev.to/kalokli8
 
 Languages and Tools:
 [<code>
